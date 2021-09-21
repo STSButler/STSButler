@@ -1,6 +1,8 @@
 Hi, I'm Amy Washburn Butler, owner of Seven Thunder Software.
 
-I work with Python, PHP, MySQL, JavaScript, HTML5, WebGL, GLSL (C language), CSS3, RESTful Web services, Visual Studio, OOP, C#, some WordPress, Unreal Engine and XML. 
+My recent Web development projects include Python, PHP, MySQL, JavaScript, HTML5, WebGL, GLSL (C language), CSS3 and RESTful Web services.
+
+I also have skill with Visual Studio, OOP, C#, Windows development, some WordPress, Unreal Engine and XML. 
 
 I'm capable with Photoshop and 3ds Max, with some Adobe Illustrator, Sound Booth and After Effects.
 
