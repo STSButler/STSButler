@@ -1,4 +1,6 @@
-Hi, I'm Amy Washburn Butler, owner of Seven Thunder Software.
+Hi, 
+
+I'm Amy Washburn Butler, owner of Seven Thunder Software.
 
 Web development projects include <a href="https://7Thunders.biz" title="Web Development: Educational Games">simple online games</a> and example projects with 
 <a href="https://python.7Thunders.biz" title="Python Development">Python</a>, 
