@@ -5,10 +5,10 @@ Versatile and helpful with a background in both software development and illustr
 <h2>Games, Tutorials, Books, Graphics:</h2>
 <ul>
   <li><a href="https://7Thunders.biz" title="Web Development: Educational Games">Simple Educational Games</a></li>
-  <li><a href="https://code.7thunders.biz/js/javascript.php" title="JavaScript">JavaScript</a></li>
   <li><a href="https://python.7Thunders.biz" title="Python Development">Python</a></li>
   <li><a href="https://code.7thunders.biz/ph/topics-php.php" title="PHP &amp; MySQL">PHP &amp; MySQL</a></li>
   <li><a href="https://code.7thunders.biz/h5/topics.php" title="HTML5, CSS3, JavaScript">HTML5, CSS3, JavaScript</a></li>
+  <li><a href="https://code.7thunders.biz/h5/js/javascript.php" title="JavaScript">JavaScript</a></li>
   <li><a href="https://code.7thunders.biz/3d/models.php" title="3D Web Interactive">3D Web Interactive: WebGL, GLSL (C language)</a></li>
   <li><a href="https://code.7thunders.biz/h5/elements/e.php" title="HTML Elements">HTML Elements</a></li>
   <li><a href="https://code.7thunders.biz/ph/post.php" title="RESTful Post:Overview">RESTful Web Services</a></li>
