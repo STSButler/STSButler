@@ -1,10 +1,10 @@
 <h1>Hi from Amy Washburn Butler,</h1> 
 <h2>llustrator &amp; Software Developer
-<blockquote>
-Would you like help with your Website? I'm versatile and attentive, with skills in graphic design, illustration, 3D rendering, with some digital tools and languages from back end and middleware to front end.
-</blockquote>
+<q>
+Educational games, interactive online 3D products, visual effects, infographics, digital images and Web graphics.
+</q>
 <h2>Games, Tutorials, Books, Graphics:</h2>
-<ul>
+<q>
   <li><a href="https://7Thunders.biz" title="Web Development: Educational Games">Simple Educational Games</a></li>
   <li><a href="https://python.7Thunders.biz" title="Python Development">Python</a></li>
   <li><a href="https://code.7thunders.biz/ph/topics-php.php" title="PHP &amp; MySQL">PHP &amp; MySQL</a></li>
