@@ -1,7 +1,8 @@
 <h1>Hi from Amy Washburn Butler,</h1> 
-<p>
-Versatile and helpful with a background in both software development and illustration, including digital tools from back end, middleware and front end, to graphics applications.
-</p>
+<h2>llustrator &amp; Software Developer
+<blockquote>
+Would you like help with your Website? I'm versatile and attentive, with skills in graphic design, illustration, 3D rendering, with some digital tools and languages from back end and middleware to front end.
+</blockquote>
 <h2>Games, Tutorials, Books, Graphics:</h2>
 <ul>
   <li><a href="https://7Thunders.biz" title="Web Development: Educational Games">Simple Educational Games</a></li>
