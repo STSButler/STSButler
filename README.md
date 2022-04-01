@@ -1,5 +1,5 @@
 <h1>Hi from Amy Washburn Butler,</h1> 
-<h2>llustrator &amp; Software Developer
+<h2>llustrator &amp; Software Developer</h2>
 <q>
 Educational games, interactive online 3D products, visual effects, infographics, digital images and Web graphics.
 </q>
