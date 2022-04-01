@@ -23,8 +23,8 @@ Versatile and helpful with a background in both software development and illustr
 <p>
 Recent focus includes efficient 3D development, combining both 3D graphics with 3D programming in WebGL. 
 My goal is to port from WebGL to Android and OpenGL ES, then to Google Cardboard.
-I ported one WebGL project to an
-<a href="https://vr.7thunders.biz/android/3d.php" title="Free Android Apps">Android app</a>, then posted the code here on GitHub. 
+I ported one WebGL project to a free
+<a href="https://7thunders.biz/apps/3d-views-info.php" title="Free Android 3D App">Android 3D app</a>, then posted the code here on GitHub. 
 </p>
 
 Thank you,<br/>
