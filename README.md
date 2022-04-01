@@ -21,7 +21,8 @@ JavaScript, HTML5, CSS3, WebGL some PHP, Python and MySQL.
   <li><a href="https://code.7thunders.biz/ph/topics-php.php" title="PHP &amp; MySQL">PHP &amp; MySQL</a></li>  
 
   <li><a href="https://code.7thunders.biz/ph/post.php" title="RESTful Post:Overview">RESTful Web Services</a></li> 
-  <li>Windows apps with C#, Visual Studio 2019 or Unreal Engine: 
+  <li>Windows apps with C#, Visual Studio 2019 or 
+    <a href="https://code.7thunders.biz/ue4/blueprints.php" title="Unreal Engine Blueprints">Unreal Engine</a>: 
     <a href="https://www.microsoft.com/en-us/p/paintball-politics/9p5htpqqdj49" title="Paintball Politics"><q>Paintball Politics</q></a> and 
     <a href="https://www.microsoft.com/en-us/p/3d-translator/9n440kv2zvtb#activetab=pivot:overviewtab" title="3D Translator"><q>3D Translator</q></a></li>
   <li><a href="https://7thunders.biz/books.php" title="Books: Kindle &amp; Online">Books</a>: Illustrated Kindle &amp; Online.</li>  
