@@ -13,7 +13,8 @@ JavaScript, HTML5, CSS3, WebGL some PHP, Python and MySQL.
     Photoshop, Some After Effects and Illustrator.
   </li>
   <li><a href="https://code.7thunders.biz/3d/models.php" title="3D Web Interactive">3D Web Interactive: WebGL, GLSL (C language)</a> including
-    product simulations, visual effects and 
+    <a href="https://code.7thunders.biz/3d/products.php" title="3D Product Examples">product</a> simulations, 
+    <a href="https://code.7thunders.biz/3d/effects.php" title="Visual Effects">visual effects</a> and 
     <a href="https://7thunders.biz/3d.php" title="3D Games">3D games</a>.
   </li>
   <li><a href="https://code.7thunders.biz/h5/topics.php" title="HTML5, CSS3, JavaScript">HTML5, CSS3, JavaScript</a></li>
